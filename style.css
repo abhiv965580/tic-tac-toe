@@ -7,10 +7,12 @@ body{
     align-items: center;
     background-color: antiquewhite;
 }
+
 h1{
     text-align: center;
     font-size: 50px;
 }
+
 .gameboard{
     margin-top: 20px;
     display: grid;
@@ -31,15 +33,15 @@ h1{
 
 .square:hover{
     background-color: bisque;
- }
+}
 
 .square:nth-child(3n) {
     border-right: none;
-  }
+}
   
 .square:nth-child(6) ~ .square {
     border-bottom: none;
-  }
+}
 
 .square:nth-child(3n-2) {
     border-left: none;

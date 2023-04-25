@@ -87,8 +87,8 @@ button{
     background-color: red;
 }
 
-button:hover{
-    background-color: aqua;
+#start-btn:hover, #restart-btn:hover{
+    background-color: #522f4f;
 }
 
 .result-container{

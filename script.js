@@ -33,7 +33,6 @@ const Gameboard = ( () => {
         })
     }
 
-
     const updateGameboard = (squareIndex) => {
         if (gameboard[squareIndex] == "") {
             marker = marker == playerMarker.xMark ? playerMarker.oMark : playerMarker.xMark;
@@ -109,7 +108,6 @@ const Game = ( () => {
         }
         let squareId = event.target.id.split('-')[1];
         Gameboard.updateGameboard(squareId);
-
         if(Gameboard.checkWinner(playerName1,playerName2)){
             gameOver = true;
             

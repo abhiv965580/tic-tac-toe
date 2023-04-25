@@ -9,13 +9,13 @@ body{
 }
 h1{
     text-align: center;
-    font-size: 30px;
+    font-size: 50px;
 }
 .gameboard{
     margin-top: 20px;
     display: grid;
     grid-template-columns: repeat(3,1fr);
-    width: 70%;
+    width: 50%;
 }
 
 .square{
@@ -23,8 +23,8 @@ h1{
     justify-content: center; 
     border: solid 3px black;
     align-items: center;
-    height: 70px;
-    font-size: 50px;
+    height: 100px;
+    font-size: 75px;
     text-align: center;
     font-weight: 600;
 }
@@ -53,7 +53,7 @@ input{
     border-radius: 10px;
     border: none;
     padding: 5px 10px 5px;
-    font-size: 14px;
+    font-size: 24px;
     background-color: #fcfcfcbc;
 }
 
@@ -72,7 +72,7 @@ button{
     cursor: pointer;
     border-radius: 5px;
     border: none;
-    font-size: 14px;
+    font-size: 20px;
     padding: 5px;
     color: white;
     font-weight: 600;

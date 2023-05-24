@@ -2,7 +2,7 @@
 
 This Repo introduces the Tic Tac Toe project in which the user enters the name of players and and the player1 will get the "X" mark and player2 will be allotted mark "O". The first one to make 3 markers in a row (diagonally, horizontally or vertically) will Win the game.
 
-The screenshot of UI is attached in this PR for reference
+The screenshot of UI is attached in this Repo for reference
 
 ## Features:
 

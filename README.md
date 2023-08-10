@@ -19,7 +19,7 @@ The screenshot of UI is attached in this Repo for reference
 - Tie combinations are checked
 - Once the result is declared no changes can be done
 
-### Live Link - https://abhishek310001.github.io/tic-tac-toe/
+### Live Link - https://abhiv965580.github.io/tic-tac-toe/
 
 ### Project Link -https://www.theodinproject.com/lessons/node-path-javascript-tic-tac-toe
 
